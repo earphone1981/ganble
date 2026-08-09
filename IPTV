@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://earphone1981.github.io/epg-generator/epg.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guide_radiko.xml,https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://earphone1981.github.io/epg-generator/epg.xml" tvg-shift=0 m3uautoload=1
 
-#競馬(地方・JRA)
+#競馬(地方)
 
 #EXTINF:-1 tvg-id="chihou.obihiro" tvg-name="帯広競馬(ばんえい)" tvg-logo="https://keiba-lv-st.jp/img/track/left-s/obihiro.png" group-title="競馬 / 地方競馬",帯広競馬(ばんえい)
 https://rakuten3qdrzrp0.keiba-racing.jp/hls-live/keiba/_definst_/liveevent/obihiro5.m3u8
@@ -63,6 +63,8 @@ https://autorace-live.akamaized.net/hls/live/2036917-b/id5/streaming/media.m3u8
 #EXTINF:-1 tvg-id="auto.sanyo" tvg-name="山陽" tvg-logo="https://autorace.jp/news/37th/img/logo-sanyo.png" group-title="オートレース",山陽
 https://autorace-live.akamaized.net/hls/live/2036917-b/id6/streaming/media.m3u8
 
+#EXTINF:-1 tvg-id="jra.green" tvg-name="ＪＲＡグリーン" tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG18HDfV9z5WnEy8DjtWcOlHM7ya-LT2y9lzP807icFeQ0cW6Y8MtoHk7llzATicOprtkQIQPlSbwjWu-OlhJWbSbmgkhZ9n4tUWB4iLZA9wfKRuSqMqzACO4FViJGJOSzpXO5rdzgyOgMDCeAKIr_pdYVXTT5_BiRdSWfoWP9ynI0JuzOoeONy9ZtwsE4fQ4TiZ7kw5ud2KuB5bN-g34aZB9bAd8qCitLFcQadXvuYnU0kCw88d-SglswbsLZeLTVIz0-kdKhTK1vGzBC7f8wUA=/JRA.png" group-title="競馬 / 中央競馬",ＪＲＡグリーン
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=5-15
 
 #競輪(TIPSTAR)
 
@@ -189,11 +191,10 @@ https://d2m69fn251lhrf.cloudfront.net/out/v1/1fb24676fcbf458b964083925878052a/in
 #EXTINF:-1 tvg-id="keirin.pist6" tvg-name="千葉PIST6" tvg-logo="https://pist6.co.jp/assets/images/common/ogp.jpg" group-title="競輪(TIPSTAR)",千葉Pist6
 https://duyycwqvxot9t.cloudfront.net/out/v1/769ad1fdda0d4e238f66e0b0f25edabb/index.m3u8
 
-#競輪2
-
-#EXTINF:-1 tvg-id="SpeedPlusOne695" tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/takamatsu-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪2",高松(改装休止中)
+#EXTINF:-1 tvg-id="keirin.takamatsu" tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/takamatsu-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪(TIPSTAR)",高松(改装休止中)
 https://d20jzsap8ax0i2.cloudfront.net/out/v1/2dabf5a556dd4bfbb75c28537be02c2f/index.m3u8
-#EXTINF:-1 tvg-id="SpeedChannel690.jp" tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/kyoto-mukomachi-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪2",向日町(改装休止中)
+
+#EXTINF:-1 tvg-id="keirin.mukomachi" tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/kyoto-mukomachi-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪(TIPSTAR)",向日町(改装休止中)
 https://cfl.st.keirin.jp/54/dash/54.mpd
 
 
