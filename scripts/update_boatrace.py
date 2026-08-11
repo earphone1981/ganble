@@ -70,11 +70,21 @@ def get_stream(code, ymd):
 
             return sources[0].get("src")
 
-    except (urllib.error.HTTPError,
-            urllib.error.URLError,
-            TimeoutError,
-            json.JSONDecodeError):
-        return None
+    except urllib.error.HTTPError as e:
+    print(f"HTTP ERROR: {e.code} {e.reason}")
+    return None
+
+except urllib.error.URLError as e:
+    print(f"URL ERROR: {e.reason}")
+    return None
+
+except TimeoutError:
+    print("TIMEOUT")
+    return None
+
+except json.JSONDecodeError as e:
+    print(f"JSON ERROR: {e}")
+    return None
 
 
 def make_boatrace_block():
