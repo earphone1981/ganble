@@ -50,51 +50,90 @@ END = "# === BOATRACE AUTO END ==="
 
 def get_stream(code, ymd):
     ref = f"lm-br-{code}-tokyo-{ymd}"
+
     url = (
         f"https://playback.api.streaks.jp/v1/projects/"
         f"{PROJECT}/medias/ref:{ref}?audio_only=false"
     )
 
-    req = urllib.request.Request(url, headers=HEADERS)
+    req = urllib.request.Request(
+        url,
+        headers=HEADERS,
+        method="GET"
+    )
 
     try:
         with urllib.request.urlopen(req, timeout=15) as res:
+            print(f"HTTP {res.status}: {code}")
+
             if res.status != 200:
                 return None
 
             data = json.load(res)
 
             sources = data.get("sources") or []
+
             if not sources:
+                print(f"NO SOURCES: {code}")
                 return None
 
-            return sources[0].get("src")
+            src = sources[0].get("src")
+
+            if not src:
+                print(f"NO SRC: {code}")
+                return None
+
+            return src
 
     except urllib.error.HTTPError as e:
-    print(f"HTTP ERROR: {e.code} {e.reason}")
-    return None
+        print(f"HTTP ERROR {code}: {e.code} {e.reason}")
 
-except urllib.error.URLError as e:
-    print(f"URL ERROR: {e.reason}")
-    return None
+        # エラー本文があれば表示する
+        try:
+            body = e.read().decode("utf-8", errors="replace")
+            print(f"BODY: {body[:500]}")
+        except Exception:
+            pass
 
-except TimeoutError:
-    print("TIMEOUT")
-    return None
+        return None
 
-except json.JSONDecodeError as e:
-    print(f"JSON ERROR: {e}")
-    return None
+    except urllib.error.URLError as e:
+        print(f"URL ERROR {code}: {e.reason}")
+        return None
+
+    except TimeoutError:
+        print(f"TIMEOUT: {code}")
+        return None
+
+    except json.JSONDecodeError as e:
+        print(f"JSON ERROR {code}: {e}")
+        return None
+
+    except Exception as e:
+        print(f"OTHER ERROR {code}: {type(e).__name__}: {e}")
+        return None
 
 
 def make_boatrace_block():
-    ymd = datetime.now(ZoneInfo("Asia/Tokyo")).strftime("%Y%m%d")
+    ymd = datetime.now(
+        ZoneInfo("Asia/Tokyo")
+    ).strftime("%Y%m%d")
 
-    lines = [START, "#ボートレース"]
+    print("==============================")
+    print("BOAT RACE URL UPDATE")
+    print(f"DATE: {ymd}")
+    print("==============================")
+
+    lines = [
+        START,
+        "#ボートレース"
+    ]
 
     count = 0
 
     for number, name, code in VENUES:
+        print(f"CHECK {number} {name}")
+
         stream = get_stream(code, ymd)
 
         if not stream:
@@ -108,31 +147,67 @@ def make_boatrace_block():
         lines.append(stream)
 
         print(f"OK   {number} {name}")
+
         count += 1
 
     lines.append(END)
 
+    print("==============================")
     print(f"取得: {count}/24")
+    print("==============================")
+
     return "\n".join(lines)
 
 
 def main():
     path = Path("IPTV")
 
-    original = path.read_text(encoding="utf-8")
+    if not path.exists():
+        raise FileNotFoundError(
+            "IPTV ファイルがリポジトリ直下にありません"
+        )
+
+    original = path.read_text(
+        encoding="utf-8"
+    )
 
     block = make_boatrace_block()
 
     if START in original and END in original:
-        before = original.split(START, 1)[0]
-        after = original.split(END, 1)[1]
 
-        new_text = before + block + after
+        before = original.split(
+            START,
+            1
+        )[0]
+
+        after = original.split(
+            END,
+            1
+        )[1]
+
+        new_text = (
+            before.rstrip()
+            + "\n\n"
+            + block
+            + after
+        )
 
     else:
-        new_text = original.rstrip() + "\n\n" + block + "\n"
 
-    path.write_text(new_text, encoding="utf-8")
+        new_text = (
+            original.rstrip()
+            + "\n\n"
+            + block
+            + "\n"
+        )
+
+    path.write_text(
+        new_text,
+        encoding="utf-8"
+    )
+
+    print("")
+    print("IPTV 更新完了")
 
 
 if __name__ == "__main__":
