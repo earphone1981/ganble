@@ -280,10 +280,6 @@ https://cfl.st.keirin.jp/83/dash/83.mpd
 https://cfl.st.keirin.jp/84/dash/84.mpd
 #EXTINF:-1 tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/sasebo-keirin-logo.png?resize=1024%2C300&ssl=1" group-title="競輪(公式)",佐世保
 https://cfl.st.keirin.jp/85/dash/85.mpd
-
-# === BOATRACE AUTO START ===
-#ボートレース
-# === BOATRACE AUTO END ===
 #EXTINF:-1 tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/beppu-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪(公式)",別府
 https://cfl.st.keirin.jp/86/dash/86.mpd
 #EXTINF:-1 tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/kumamoto-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪(公式)",熊本
