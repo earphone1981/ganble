@@ -1,11 +1,11 @@
 {
-  "date": "20260811",
-  "updated_at": "2026-08-11T21:16:56.182720+09:00",
+  "date": "20260812",
+  "updated_at": "2026-08-12T00:23:13.151226+09:00",
   "venues": {
     "伊勢崎": {
       "source": "オッズパークオート",
       "tvg_id": "auto.isesaki",
-      "event_name": "開催日（2026年8月11日（火）） 伊勢崎｜レース一覧｜レース情報｜オッズパークオートレース",
+      "event_name": "）",
       "event_day": "初日",
       "grade": "",
       "day_type": "ナイター",
@@ -14,12 +14,12 @@
         {
           "race": 1,
           "time": "14:21",
-          "name": "オートレースＧＰ開幕戦",
-          "race_type": "一般戦",
+          "name": "予選",
+          "race_type": "予選",
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=1"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=1"
         },
         {
           "race": 2,
@@ -29,7 +29,7 @@
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=2"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=2"
         },
         {
           "race": 3,
@@ -39,7 +39,7 @@
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=3"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=3"
         },
         {
           "race": 4,
@@ -49,7 +49,7 @@
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=4"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=4"
         },
         {
           "race": 5,
@@ -59,7 +59,7 @@
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=5"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=5"
         },
         {
           "race": 6,
@@ -69,7 +69,7 @@
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=6"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=6"
         },
         {
           "race": 7,
@@ -79,7 +79,7 @@
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=7"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=7"
         },
         {
           "race": 8,
@@ -89,7 +89,7 @@
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=8"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=8"
         },
         {
           "race": 9,
@@ -99,7 +99,7 @@
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=9"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=9"
         },
         {
           "race": 10,
@@ -109,7 +109,7 @@
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=10"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=10"
         },
         {
           "race": 11,
@@ -119,7 +119,7 @@
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=11"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=11"
         },
         {
           "race": 12,
@@ -129,15 +129,15 @@
           "icon": "🏍️",
           "is_final": false,
           "main": true,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260811&raceNo=12"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=03&raceDy=20260812&raceNo=12"
         }
       ],
-      "url": "https://sp.oddspark.com/autorace/SpRaceList.do?joCd=03&joCode=03&kaisaiBi=20260811&raceNo="
+      "url": "https://sp.oddspark.com/autorace/SpRaceList.do?joCd=03&joCode=03&kaisaiBi=20260812&raceNo="
     },
     "浜松": {
       "source": "オッズパークオート",
       "tvg_id": "auto.hamamatsu",
-      "event_name": "開催日（2026年8月11日（火）） 浜松｜レース一覧｜レース情報｜オッズパークオートレース",
+      "event_name": "）",
       "event_day": "初日",
       "grade": "",
       "day_type": "アーリー",
@@ -146,95 +146,95 @@
         {
           "race": 1,
           "time": "09:34",
-          "name": "予選",
+          "name": "二次予選Ｂ",
           "race_type": "予選",
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260811&raceNo=1"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260812&raceNo=1"
         },
         {
           "race": 2,
           "time": "10:02",
-          "name": "予選",
+          "name": "二次予選Ｂ",
           "race_type": "予選",
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260811&raceNo=2"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260812&raceNo=2"
         },
         {
           "race": 3,
           "time": "10:30",
-          "name": "予選",
+          "name": "二次予選Ｂ",
           "race_type": "予選",
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260811&raceNo=3"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260812&raceNo=3"
         },
         {
           "race": 4,
           "time": "10:58",
-          "name": "予選",
+          "name": "二次予選Ｂ",
           "race_type": "予選",
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260811&raceNo=4"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260812&raceNo=4"
         },
         {
           "race": 5,
           "time": "11:26",
-          "name": "予選",
+          "name": "二次予選Ａ",
           "race_type": "予選",
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260811&raceNo=5"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260812&raceNo=5"
         },
         {
           "race": 6,
           "time": "11:55",
-          "name": "予選",
+          "name": "二次予選Ａ",
           "race_type": "予選",
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260811&raceNo=6"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260812&raceNo=6"
         },
         {
           "race": 7,
           "time": "12:25",
-          "name": "予選",
+          "name": "二次予選Ａ",
           "race_type": "予選",
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260811&raceNo=7"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260812&raceNo=7"
         },
         {
           "race": 8,
           "time": "12:57",
-          "name": "予選",
+          "name": "二次予選Ａ",
           "race_type": "予選",
           "icon": "🏍️",
           "is_final": false,
           "main": false,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260811&raceNo=8"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260812&raceNo=8"
         },
         {
           "race": 9,
           "time": "13:30",
-          "name": "予選",
+          "name": "二次予選Ａ",
           "race_type": "予選",
           "icon": "🏍️",
           "is_final": false,
           "main": true,
-          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260811&raceNo=9"
+          "url": "https://www.oddspark.com/autorace/Odds.do?placeCd=04&raceDy=20260812&raceNo=9"
         }
       ],
-      "url": "https://sp.oddspark.com/autorace/SpRaceList.do?joCd=04&joCode=04&kaisaiBi=20260811&raceNo="
+      "url": "https://sp.oddspark.com/autorace/SpRaceList.do?joCd=04&joCode=04&kaisaiBi=20260812&raceNo="
     }
   }
 }

@@ -1,6 +1,6 @@
 {
-  "date": "20260811",
-  "updated_at": "2026-08-11T21:15:57.033404+09:00",
+  "date": "20260812",
+  "updated_at": "2026-08-12T00:22:18.088192+09:00",
   "jra": {},
   "local": {
     "門別": {
@@ -9,120 +9,120 @@
       "races": [
         {
           "race": 1,
-          "time": "14:40",
+          "time": "14:30",
           "name": "２歳 未勝利",
           "kind": "",
-          "conditions": "火",
+          "conditions": "水",
           "race_type": "一般",
           "icon": "🐎",
           "main": false
         },
         {
           "race": 2,
-          "time": "15:10",
-          "name": "２歳 未勝利",
+          "time": "15:05",
+          "name": "公益社団法人日本軽種馬協会協賛",
           "kind": "",
-          "conditions": "火",
+          "conditions": "水",
           "race_type": "一般",
           "icon": "🐎",
           "main": false
         },
         {
           "race": 3,
-          "time": "15:45",
-          "name": "公益社団法人日本軽種馬協会協賛",
+          "time": "15:35",
+          "name": "２歳 未勝利",
           "kind": "",
-          "conditions": "火",
+          "conditions": "水",
           "race_type": "一般",
           "icon": "🐎",
           "main": false
         },
         {
           "race": 4,
-          "time": "16:20",
+          "time": "16:10",
           "name": "３歳以上 Ｃ４－３",
           "kind": "",
-          "conditions": "火",
+          "conditions": "水",
           "race_type": "一般",
           "icon": "🐎",
           "main": false
         },
         {
           "race": 5,
-          "time": "16:50",
-          "name": "３歳以上 Ｃ４－３",
+          "time": "16:45",
+          "name": "ＪＲＡ認定競走アタックチャレンジ競走",
           "kind": "",
-          "conditions": "火",
+          "conditions": "水",
           "race_type": "一般",
           "icon": "🐎",
           "main": false
         },
         {
           "race": 6,
-          "time": "17:25",
-          "name": "３歳以上 Ｃ４－３",
+          "time": "17:20",
+          "name": "ＪＲＡ認定競走フレッシュチャレンジ競走",
           "kind": "",
-          "conditions": "火",
-          "race_type": "一般",
-          "icon": "🐎",
+          "conditions": "水",
+          "race_type": "新馬",
+          "icon": "🆕",
           "main": false
         },
         {
           "race": 7,
-          "time": "18:00",
+          "time": "17:50",
           "name": "３歳以上 Ｃ４－２",
           "kind": "",
-          "conditions": "火",
+          "conditions": "水",
           "race_type": "一般",
           "icon": "🐎",
           "main": false
         },
         {
           "race": 8,
-          "time": "18:35",
+          "time": "18:20",
           "name": "３歳以上 Ｃ４－２",
           "kind": "",
-          "conditions": "火",
+          "conditions": "水",
           "race_type": "一般",
           "icon": "🐎",
           "main": false
         },
         {
           "race": 9,
-          "time": "19:10",
-          "name": "千軍万馬オープン",
+          "time": "18:55",
+          "name": "クレオメ特別",
           "kind": "",
-          "conditions": "火",
-          "race_type": "一般",
-          "icon": "🐎",
+          "conditions": "水",
+          "race_type": "特別",
+          "icon": "🏇",
           "main": false
         },
         {
           "race": 10,
-          "time": "19:40",
-          "name": "グランシャリオドリーム４４",
+          "time": "19:30",
+          "name": "グランシャリオドリーム４５",
           "kind": "",
-          "conditions": "火",
+          "conditions": "水",
           "race_type": "一般",
           "icon": "🐎",
           "main": false
         },
         {
           "race": 11,
-          "time": "20:15",
-          "name": "テッポウユリ特別",
+          "time": "20:05",
+          "name": "マリーゴールド特別",
           "kind": "",
-          "conditions": "火",
+          "conditions": "水",
           "race_type": "特別",
           "icon": "🏇",
           "main": false
         },
         {
           "race": 12,
-          "time": "20:50",
-          "name": "ネモフィラ特別",
+          "time": "20:40",
+          "name": "リンドウ特別",
           "kind": "",
-          "conditions": "火",
+          "conditions": "水",
           "race_type": "特別",
           "icon": "🏇",
           "main": true
@@ -131,148 +131,22 @@
     },
     "浦和": {
       "source": "NAR公式（南関フォールバック）",
-      "day_type": "ナイター",
-      "races": [
-        {
-          "race": 1,
-          "time": "13:30",
-          "name": "ランチタイムＣ３選抜馬イ",
-          "kind": "",
-          "conditions": "",
-          "race_type": "一般",
-          "icon": "🐎",
-          "main": false
-        },
-        {
-          "race": 2,
-          "time": "14:00",
-          "name": "３歳三",
-          "kind": "",
-          "conditions": "",
-          "race_type": "一般",
-          "icon": "🐎",
-          "main": false
-        },
-        {
-          "race": 3,
-          "time": "14:30",
-          "name": "３歳二",
-          "kind": "",
-          "conditions": "",
-          "race_type": "一般",
-          "icon": "🐎",
-          "main": false
-        },
-        {
-          "race": 4,
-          "time": "15:00",
-          "name": "特選Ｃ２ウＣ３ア選抜馬",
-          "kind": "",
-          "conditions": "",
-          "race_type": "一般",
-          "icon": "🐎",
-          "main": false
-        },
-        {
-          "race": 5,
-          "time": "15:35",
-          "name": "Ｃ２五",
-          "kind": "",
-          "conditions": "",
-          "race_type": "一般",
-          "icon": "🐎",
-          "main": false
-        },
-        {
-          "race": 6,
-          "time": "16:05",
-          "name": "若竹特別２歳一",
-          "kind": "特別",
-          "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
-          "main": false
-        },
-        {
-          "race": 7,
-          "time": "16:35",
-          "name": "白岡美人で元気１００倍賞Ｃ１四",
-          "kind": "",
-          "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
-          "main": false
-        },
-        {
-          "race": 8,
-          "time": "17:10",
-          "name": "鳳仙花特別Ｂ３イＣ１ア選抜馬",
-          "kind": "特別",
-          "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
-          "main": false
-        },
-        {
-          "race": 9,
-          "time": "17:45",
-          "name": "納涼特別Ｂ２二Ｂ３一",
-          "kind": "特別",
-          "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
-          "main": false
-        },
-        {
-          "race": 10,
-          "time": "18:20",
-          "name": "山の日特別Ａ２Ｂ１一",
-          "kind": "特別",
-          "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
-          "main": false
-        },
-        {
-          "race": 11,
-          "time": "18:55",
-          "name": "ルーキーズサマーカップ２歳オープン",
-          "kind": "重賞",
-          "conditions": "",
-          "race_type": "重賞",
-          "icon": "🏆",
-          "main": true
-        },
-        {
-          "race": 12,
-          "time": "19:30",
-          "name": "夏の星特別Ｃ２選抜馬イ",
-          "kind": "特別",
-          "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
-          "main": false
-        }
-      ]
-    },
-    "盛岡": {
-      "source": "NAR公式",
       "day_type": "薄暮",
       "races": [
         {
           "race": 1,
-          "time": "11:40",
-          "name": "Ｃ２三組",
+          "time": "13:10",
+          "name": "サマードリームリレースタート賞３歳六",
           "kind": "",
           "conditions": "",
-          "race_type": "一般",
-          "icon": "🐎",
+          "race_type": "特別",
+          "icon": "🏇",
           "main": false
         },
         {
           "race": 2,
-          "time": "12:15",
-          "name": "Ｃ２二組",
+          "time": "13:40",
+          "name": "３歳五",
           "kind": "",
           "conditions": "",
           "race_type": "一般",
@@ -281,59 +155,59 @@
         },
         {
           "race": 3,
-          "time": "12:50",
-          "name": "うまレター賞Ｃ２一組",
+          "time": "14:10",
+          "name": "３歳四",
           "kind": "",
           "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
+          "race_type": "一般",
+          "icon": "🐎",
           "main": false
         },
         {
           "race": 4,
-          "time": "13:25",
-          "name": "ポイントたまる！楽天競馬賞３歳Ｃ１二組",
+          "time": "14:40",
+          "name": "特選Ｃ３二 三",
           "kind": "",
           "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
+          "race_type": "一般",
+          "icon": "🐎",
           "main": false
         },
         {
           "race": 5,
-          "time": "14:05",
-          "name": "オッズパーク賞３歳Ｃ１一組",
+          "time": "15:15",
+          "name": "特選Ｃ３二 三",
           "kind": "",
           "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
+          "race_type": "一般",
+          "icon": "🐎",
           "main": false
         },
         {
           "race": 6,
-          "time": "14:40",
-          "name": "いわてくじ山形村短角牛賞Ｂ２",
+          "time": "15:50",
+          "name": "Ｃ２選抜馬イ",
           "kind": "",
           "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
+          "race_type": "一般",
+          "icon": "🐎",
           "main": false
         },
         {
           "race": 7,
-          "time": "15:15",
-          "name": "いわて北緯４０度岩手町賞Ｂ２",
+          "time": "16:25",
+          "name": "浦和×大井 サマードリームリＣ１イＣ２ア",
           "kind": "",
           "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
+          "race_type": "一般",
+          "icon": "🐎",
           "main": false
         },
         {
           "race": 8,
-          "time": "15:50",
-          "name": "いわて北緯４０度葛巻町賞Ｂ２",
-          "kind": "",
+          "time": "17:00",
+          "name": "夕涼み特別Ｃ３選抜馬イ",
+          "kind": "特別",
           "conditions": "",
           "race_type": "特別",
           "icon": "🏇",
@@ -341,8 +215,8 @@
         },
         {
           "race": 9,
-          "time": "16:30",
-          "name": "Ｊ交 オニキス賞３歳",
+          "time": "17:35",
+          "name": "ほおずき特別Ｃ２一",
           "kind": "特別",
           "conditions": "",
           "race_type": "特別",
@@ -351,44 +225,44 @@
         },
         {
           "race": 10,
-          "time": "17:05",
-          "name": "クラスターカップJpnIII",
-          "kind": "重賞",
-          "conditions": "",
-          "race_type": "ダートグレード",
-          "icon": "🏆",
-          "main": true
-        },
-        {
-          "race": 11,
-          "time": "17:45",
-          "name": "いわて北緯４０度八幡平市賞Ｂ１二組",
-          "kind": "",
+          "time": "18:10",
+          "name": "秋風月特別Ｂ３三Ｃ１一",
+          "kind": "特別",
           "conditions": "",
           "race_type": "特別",
           "icon": "🏇",
           "main": false
         },
         {
-          "race": 12,
-          "time": "18:20",
-          "name": "夢・希望 未来へ前進Ｂ１一組",
-          "kind": "",
+          "race": 11,
+          "time": "18:45",
+          "name": "’２６ヴィーナスサマースプリント３上牝馬",
+          "kind": "準重賞",
           "conditions": "",
-          "race_type": "一般",
-          "icon": "🐎",
+          "race_type": "準重賞",
+          "icon": "⭐",
+          "main": true
+        },
+        {
+          "race": 12,
+          "time": "19:20",
+          "name": "盆の月特別Ｂ２Ｂ３選抜馬",
+          "kind": "特別",
+          "conditions": "",
+          "race_type": "特別",
+          "icon": "🏇",
           "main": false
         }
       ]
     },
-    "金沢": {
-      "source": "NAR公式",
+    "大井": {
+      "source": "NAR公式（南関フォールバック）",
       "day_type": "ナイター",
       "races": [
         {
           "race": 1,
-          "time": "15:05",
-          "name": "Ｃ１六",
+          "time": "15:30",
+          "name": "３歳九 十１１",
           "kind": "",
           "conditions": "",
           "race_type": "一般",
@@ -397,28 +271,28 @@
         },
         {
           "race": 2,
-          "time": "15:40",
-          "name": "Ｃ１五",
+          "time": "16:05",
+          "name": "２歳新馬",
           "kind": "",
           "conditions": "",
-          "race_type": "一般",
-          "icon": "🐎",
+          "race_type": "新馬",
+          "icon": "🆕",
           "main": false
         },
         {
           "race": 3,
-          "time": "16:15",
-          "name": "睦斗小学校入学＆紬ほし組おめでとうＣ１四",
+          "time": "16:40",
+          "name": "２歳新馬",
           "kind": "",
           "conditions": "",
-          "race_type": "一般",
-          "icon": "🐎",
+          "race_type": "新馬",
+          "icon": "🆕",
           "main": false
         },
         {
           "race": 4,
-          "time": "16:50",
-          "name": "Ｃ１三",
+          "time": "17:15",
+          "name": "３歳九 十１１",
           "kind": "",
           "conditions": "",
           "race_type": "一般",
@@ -427,28 +301,8 @@
         },
         {
           "race": 5,
-          "time": "17:25",
-          "name": "超光速微粒子の可能性杯Ｃ１二",
-          "kind": "",
-          "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
-          "main": false
-        },
-        {
-          "race": 6,
-          "time": "18:05",
-          "name": "楽天ポイントが貯まる！楽天競馬特Ｃ１Ｃ２",
-          "kind": "特別",
-          "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
-          "main": false
-        },
-        {
-          "race": 7,
-          "time": "18:45",
-          "name": "Ｂ２三",
+          "time": "17:50",
+          "name": "３歳九 十１１",
           "kind": "",
           "conditions": "",
           "race_type": "一般",
@@ -456,9 +310,29 @@
           "main": false
         },
         {
+          "race": 6,
+          "time": "18:25",
+          "name": "ブラック・ベルベット賞Ｃ１七 八",
+          "kind": "",
+          "conditions": "",
+          "race_type": "特別",
+          "icon": "🏇",
+          "main": false
+        },
+        {
+          "race": 7,
+          "time": "19:00",
+          "name": "はくちょう座特別Ｃ２選抜牝馬",
+          "kind": "特別",
+          "conditions": "",
+          "race_type": "特別",
+          "icon": "🏇",
+          "main": false
+        },
+        {
           "race": 8,
-          "time": "19:20",
-          "name": "智聡＆夏生☆結婚半年記念Ｂ２二",
+          "time": "19:35",
+          "name": "Ｃ１七 八",
           "kind": "",
           "conditions": "",
           "race_type": "一般",
@@ -467,23 +341,23 @@
         },
         {
           "race": 9,
-          "time": "20:00",
-          "name": "読売レディス杯３歳上牝馬（地方全国交流）",
-          "kind": "重賞",
-          "conditions": "",
-          "race_type": "重賞",
-          "icon": "🏆",
-          "main": true
-        },
-        {
-          "race": 10,
-          "time": "20:40",
-          "name": "能登復興支援 木ノ浦海岸特別Ｂ２一",
+          "time": "20:10",
+          "name": "武蔵野オープン３上特別",
           "kind": "特別",
           "conditions": "",
           "race_type": "特別",
           "icon": "🏇",
           "main": false
+        },
+        {
+          "race": 10,
+          "time": "20:50",
+          "name": "トゥインクルバースデー賞Ｂ３三選抜特別",
+          "kind": "特別",
+          "conditions": "",
+          "race_type": "特別",
+          "icon": "🏇",
+          "main": true
         }
       ]
     },
@@ -494,17 +368,17 @@
         {
           "race": 1,
           "time": "10:55",
-          "name": "私の青春☆アクセル全開！杯Ｃ１４",
+          "name": "３歳未勝利３歳１１",
           "kind": "",
           "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
+          "race_type": "一般",
+          "icon": "🐎",
           "main": false
         },
         {
           "race": 2,
           "time": "11:25",
-          "name": "岡崎忠史祝五十歳人生大逃げ競争Ｃ１５",
+          "name": "好きです笠松競馬３歳８",
           "kind": "",
           "conditions": "",
           "race_type": "一般",
@@ -513,18 +387,18 @@
         },
         {
           "race": 3,
-          "time": "12:00",
-          "name": "隼人＆結花☆結婚記念杯☆３歳１０",
+          "time": "11:55",
+          "name": "佐々木英文生誕記念３歳７",
           "kind": "",
           "conditions": "",
-          "race_type": "特別",
-          "icon": "🏇",
+          "race_type": "一般",
+          "icon": "🐎",
           "main": false
         },
         {
           "race": 4,
-          "time": "12:35",
-          "name": "ななさん、ききさん卒業記念３歳９",
+          "time": "12:30",
+          "name": "第１回水田帰省記念３歳６",
           "kind": "",
           "conditions": "",
           "race_type": "一般",
@@ -533,8 +407,8 @@
         },
         {
           "race": 5,
-          "time": "13:05",
-          "name": "アンダーグラフ来場記念Ｃ１３",
+          "time": "13:00",
+          "name": "第２１回岡田みなも生誕記念３歳５",
           "kind": "",
           "conditions": "",
           "race_type": "一般",
@@ -543,8 +417,8 @@
         },
         {
           "race": 6,
-          "time": "13:40",
-          "name": "ヤクルトマーケティング東海杯Ｃ１２",
+          "time": "13:35",
+          "name": "くろゆり賞抽選会実施記念Ｂ６",
           "kind": "",
           "conditions": "",
           "race_type": "特別",
@@ -554,7 +428,7 @@
         {
           "race": 7,
           "time": "14:15",
-          "name": "サスケ来場記念Ｂ３",
+          "name": "亜咲花ミニライブ記念Ｂ５",
           "kind": "",
           "conditions": "",
           "race_type": "一般",
@@ -564,8 +438,8 @@
         {
           "race": 8,
           "time": "14:50",
-          "name": "スマホで投票！楽天競馬賞Ａ４Ｂ２特別",
-          "kind": "特別",
+          "name": "ＷＥＢ特別番組配信中Ｂ４",
+          "kind": "",
           "conditions": "",
           "race_type": "特別",
           "icon": "🏇",
@@ -573,8 +447,8 @@
         },
         {
           "race": 9,
-          "time": "15:20",
-          "name": "蛍光特別Ｂ１－２",
+          "time": "15:25",
+          "name": "ささゆり特別Ａ３",
           "kind": "特別",
           "conditions": "",
           "race_type": "特別",
@@ -583,23 +457,149 @@
         },
         {
           "race": 10,
-          "time": "15:55",
-          "name": "蛍火特別Ｂ１－１",
+          "time": "16:00",
+          "name": "岐阜美少女図鑑しろゆり賞Ａ２特別",
           "kind": "特別",
           "conditions": "",
           "race_type": "特別",
           "icon": "🏇",
-          "main": true
+          "main": false
         },
         {
           "race": 11,
-          "time": "16:25",
-          "name": "Ｂ級サバイバル選抜",
+          "time": "16:35",
+          "name": "くろゆり賞３歳以上・オープン",
+          "kind": "重賞",
+          "conditions": "",
+          "race_type": "重賞",
+          "icon": "🏆",
+          "main": true
+        }
+      ]
+    },
+    "園田": {
+      "source": "NAR公式",
+      "day_type": "デイ",
+      "races": [
+        {
+          "race": 1,
+          "time": "10:45",
+          "name": "Ｃ３三３歳以上",
           "kind": "",
           "conditions": "",
           "race_type": "一般",
           "icon": "🐎",
           "main": false
+        },
+        {
+          "race": 2,
+          "time": "11:15",
+          "name": "Ｃ３二３歳以上",
+          "kind": "",
+          "conditions": "",
+          "race_type": "一般",
+          "icon": "🐎",
+          "main": false
+        },
+        {
+          "race": 3,
+          "time": "11:45",
+          "name": "Ｃ３一３歳以上",
+          "kind": "",
+          "conditions": "",
+          "race_type": "一般",
+          "icon": "🐎",
+          "main": false
+        },
+        {
+          "race": 4,
+          "time": "12:15",
+          "name": "莇原８．５ハロンＣ３ ３歳以上",
+          "kind": "",
+          "conditions": "",
+          "race_type": "一般",
+          "icon": "🐎",
+          "main": false
+        },
+        {
+          "race": 5,
+          "time": "12:50",
+          "name": "芝田７ハロンＣ２二３歳以上",
+          "kind": "",
+          "conditions": "",
+          "race_type": "一般",
+          "icon": "🐎",
+          "main": false
+        },
+        {
+          "race": 6,
+          "time": "13:20",
+          "name": "Ｃ２一３歳以上",
+          "kind": "",
+          "conditions": "",
+          "race_type": "一般",
+          "icon": "🐎",
+          "main": false
+        },
+        {
+          "race": 7,
+          "time": "13:50",
+          "name": "Ｃ１三３歳以上",
+          "kind": "",
+          "conditions": "",
+          "race_type": "一般",
+          "icon": "🐎",
+          "main": false
+        },
+        {
+          "race": 8,
+          "time": "14:25",
+          "name": "Ｊ認 アッパートライ２歳特別",
+          "kind": "特別",
+          "conditions": "",
+          "race_type": "特別",
+          "icon": "🏇",
+          "main": false
+        },
+        {
+          "race": 9,
+          "time": "15:00",
+          "name": "Ｃ１二３歳以上",
+          "kind": "",
+          "conditions": "",
+          "race_type": "一般",
+          "icon": "🐎",
+          "main": false
+        },
+        {
+          "race": 10,
+          "time": "15:40",
+          "name": "Ｃ１一３歳以上",
+          "kind": "",
+          "conditions": "",
+          "race_type": "一般",
+          "icon": "🐎",
+          "main": false
+        },
+        {
+          "race": 11,
+          "time": "16:15",
+          "name": "たつの赤とんぼ特別Ｂ１ ３歳以上",
+          "kind": "特別",
+          "conditions": "",
+          "race_type": "特別",
+          "icon": "🏇",
+          "main": false
+        },
+        {
+          "race": 12,
+          "time": "16:50",
+          "name": "Ｃ２ ３歳以上特別",
+          "kind": "特別",
+          "conditions": "",
+          "race_type": "特別",
+          "icon": "🏇",
+          "main": true
         }
       ]
     }
