@@ -1,0 +1,158 @@
+{
+    "01 桐生":  {
+                  "tvg_id":  "boat.kiryu",
+                  "live":  true,
+                  "start":  "14:45",
+                  "end":  "01:59",
+                  "day_type":  "デイ",
+                  "emoji":  "🌞"
+              },
+    "02 戸田":  {
+                  "tvg_id":  "boat.toda",
+                  "live":  false
+              },
+    "03 江戸川":  {
+                   "tvg_id":  "boat.edogawa",
+                   "live":  true,
+                   "start":  "10:39",
+                   "end":  "10:39",
+                   "day_type":  "デイ",
+                   "emoji":  "🌞"
+               },
+    "04 平和島":  {
+                   "tvg_id":  "boat.heiwajima",
+                   "live":  true,
+                   "start":  "10:00",
+                   "end":  "18:35",
+                   "day_type":  "サマータイム",
+                   "emoji":  "🌇"
+               },
+    "05 多摩川":  {
+                   "tvg_id":  "boat.tamagawa",
+                   "live":  true,
+                   "start":  "10:58",
+                   "end":  "17:44",
+                   "day_type":  "デイ",
+                   "emoji":  "🌞"
+               },
+    "06 浜名湖":  {
+                   "tvg_id":  "boat.hamanako",
+                   "live":  true,
+                   "start":  "10:50",
+                   "end":  "17:22",
+                   "day_type":  "デイ",
+                   "emoji":  "🌞"
+               },
+    "07 蒲郡":  {
+                  "tvg_id":  "boat.gamagori",
+                  "live":  true,
+                  "start":  "14:10",
+                  "end":  "01:59",
+                  "day_type":  "デイ",
+                  "emoji":  "🌞"
+              },
+    "08 常滑":  {
+                  "tvg_id":  "boat.tokoname",
+                  "live":  true,
+                  "start":  "09:59",
+                  "end":  "16:25",
+                  "day_type":  "デイ",
+                  "emoji":  "🌞"
+              },
+    "09 津":  {
+                 "tvg_id":  "boat.tsu",
+                 "live":  false
+             },
+    "10 三国":  {
+                  "tvg_id":  "boat.mikuni",
+                  "live":  false
+              },
+    "11 びわこ":  {
+                   "tvg_id":  "boat.biwako",
+                   "live":  false
+               },
+    "12 住之江":  {
+                   "tvg_id":  "boat.suminoe",
+                   "live":  false
+               },
+    "13 尼崎":  {
+                  "tvg_id":  "boat.amagasaki",
+                  "live":  true,
+                  "start":  "10:02",
+                  "end":  "16:41",
+                  "day_type":  "デイ",
+                  "emoji":  "🌞"
+              },
+    "14 鳴門":  {
+                  "tvg_id":  "boat.naruto",
+                  "live":  false
+              },
+    "15 丸亀":  {
+                  "tvg_id":  "boat.marugame",
+                  "live":  true,
+                  "start":  "13:55",
+                  "end":  "01:54",
+                  "day_type":  "デイ",
+                  "emoji":  "🌞"
+              },
+    "16 児島":  {
+                  "tvg_id":  "boat.kojima",
+                  "live":  true,
+                  "start":  "09:40",
+                  "end":  "18:05",
+                  "day_type":  "サマータイム",
+                  "emoji":  "🌇"
+              },
+    "17 宮島":  {
+                  "tvg_id":  "boat.miyajima",
+                  "live":  false
+              },
+    "18 徳山":  {
+                  "tvg_id":  "boat.tokuyama",
+                  "live":  true,
+                  "start":  "10:00",
+                  "end":  "17:30",
+                  "day_type":  "デイ",
+                  "emoji":  "🌞"
+              },
+    "19 下関":  {
+                  "tvg_id":  "boat.shimonoseki",
+                  "live":  true,
+                  "start":  "11:00",
+                  "end":  "22:59",
+                  "day_type":  "ナイター",
+                  "emoji":  "🌙"
+              },
+    "20 若松":  {
+                  "tvg_id":  "boat.wakamatsu",
+                  "live":  true,
+                  "start":  "14:45",
+                  "end":  "01:59",
+                  "day_type":  "デイ",
+                  "emoji":  "🌞"
+              },
+    "21 芦屋":  {
+                  "tvg_id":  "boat.ashiya",
+                  "live":  true,
+                  "start":  "07:57",
+                  "end":  "14:20",
+                  "day_type":  "モーニング",
+                  "emoji":  "🌅"
+              },
+    "22 福岡":  {
+                  "tvg_id":  "boat.fukuoka",
+                  "live":  false
+              },
+    "23 唐津":  {
+                  "tvg_id":  "boat.karatsu",
+                  "live":  true,
+                  "start":  "08:09",
+                  "end":  "14:48",
+                  "day_type":  "モーニング",
+                  "emoji":  "🌅"
+              },
+    "24 大村":  {
+                  "tvg_id":  "boat.omura",
+                  "live":  false
+              }
+}
