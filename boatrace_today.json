@@ -1,188 +1,266 @@
 {
   "01 桐生": {
     "tvg_id": "boat.kiryu",
-    "live": false,
-    "start": "15:02",
-    "end": "20:41",
-    "day_type": "ナイター",
-    "emoji": "🌙",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "live": true,
+    "start": "",
+    "end": "",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/5618339463c14ed2a55fb70d56dbb96c/de2613c0fe8441bf804935e1b1c7e2df/manifest_1.m3u8?end=1786538999&start=1786495800&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY5MTQwMF8yMDg3MzQ1OTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.vPEbCuce71D8N8zHCUV64rJmWGdYot9cRr0I_VRkTtE",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "02 戸田": {
     "tvg_id": "boat.toda",
-    "live": false,
-    "start": "10:32",
-    "end": "16:40",
+    "live": true,
+    "start": "",
+    "end": "",
     "day_type": "デイ",
     "emoji": "🌞",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/c6af394721aa4ceba1db6404867ee523/3b443733b38347ceb25192143c945387/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "03 江戸川": {
     "tvg_id": "boat.edogawa",
-    "live": false,
-    "start": "10:59",
-    "end": "16:35",
+    "live": true,
+    "start": "",
+    "end": "",
     "day_type": "デイ",
     "emoji": "🌞",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/f400efe7d2b3498ca8ce1e29152f1479/dca56391417c432daccb7c2a9b26cbfd/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "04 平和島": {
     "tvg_id": "boat.heiwajima",
-    "live": false,
-    "start": "11:40",
-    "end": "17:52",
+    "live": true,
+    "start": "",
+    "end": "",
     "day_type": "デイ",
     "emoji": "🌞",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/b6fb5b834d20412c964e122a226c03e7/af452b25992e4feda52e0071537bdea5/manifest_4.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "05 多摩川": {
     "tvg_id": "boat.tamagawa",
-    "live": false
+    "live": false,
+    "start": "",
+    "end": "",
+    "day_type": "",
+    "emoji": "🚤",
+    "url": "",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "06 浜名湖": {
     "tvg_id": "boat.hamanako",
-    "live": false,
-    "start": "11:12",
-    "end": "17:14",
+    "live": true,
+    "start": "",
+    "end": "",
     "day_type": "デイ",
     "emoji": "🌞",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/ce870586895b416ea4e680ef9011e368/0d14fb9777224237a0b307a9d8f01ee2/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "07 蒲郡": {
     "tvg_id": "boat.gamagori",
-    "live": false,
-    "start": "15:03",
-    "end": "20:46",
-    "day_type": "ナイター",
-    "emoji": "🌙",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "live": true,
+    "start": "",
+    "end": "",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/f30965ee37e64e1c99fd8f5f0c312698/bbdf3cc9f343495582eccf631e2f05cb/manifest_1.m3u8?end=1786538999&start=1786495800&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY5MTQwMF8yMDg3MzQ1OTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.vPEbCuce71D8N8zHCUV64rJmWGdYot9cRr0I_VRkTtE",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "08 常滑": {
     "tvg_id": "boat.tokoname",
-    "live": false,
-    "start": "10:18",
-    "end": "16:13",
+    "live": true,
+    "start": "",
+    "end": "",
     "day_type": "デイ",
     "emoji": "🌞",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "url": "https://manifest.streaks.jp/v6/cp-boatrace-prod/d51aaf514647452a9db9e98fa3500828/8dbeff71ac074d45ac2a623f7c2c3541/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjgwNTEyMDg0YTFiODRjMWRhZDJiZTExZjc5NWI2ZGYxIiwiZWRnZSI6IjUwOWM4Y2ExZDEwMjRlZGViOGMyNTE0ZDFmZWJmYmQzIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc4NjY4MzYwMCwic3RhcnQiOjE3ODY0ODc0MDAsImNwIjoiMjA4NjgzMDAwXzIwODcyNjE5OSIsInBwdyI6IjQwayJ9.g15W0ZFCkYls6TTvQdfUqt95dP3ybiFgz6j7aJ-Hc7g",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "09 津": {
     "tvg_id": "boat.tsu",
-    "live": false
+    "live": false,
+    "start": "",
+    "end": "",
+    "day_type": "",
+    "emoji": "🚤",
+    "url": "",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "10 三国": {
     "tvg_id": "boat.mikuni",
-    "live": false
+    "live": false,
+    "start": "",
+    "end": "",
+    "day_type": "",
+    "emoji": "🚤",
+    "url": "",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "11 びわこ": {
     "tvg_id": "boat.biwako",
-    "live": false
+    "live": false,
+    "start": "",
+    "end": "",
+    "day_type": "",
+    "emoji": "🚤",
+    "url": "",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "12 住之江": {
     "tvg_id": "boat.suminoe",
-    "live": false
+    "live": false,
+    "start": "",
+    "end": "",
+    "day_type": "",
+    "emoji": "🚤",
+    "url": "",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "13 尼崎": {
     "tvg_id": "boat.amagasaki",
-    "live": false,
-    "start": "10:20",
-    "end": "16:33",
+    "live": true,
+    "start": "",
+    "end": "",
     "day_type": "デイ",
     "emoji": "🌞",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/8c36ad17e9874aa7a7f8ef3aa127105d/efd3beffb4b14bfc8685a7dad8cb655f/manifest_2.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "14 鳴門": {
     "tvg_id": "boat.naruto",
-    "live": false
+    "live": false,
+    "start": "",
+    "end": "",
+    "day_type": "",
+    "emoji": "🚤",
+    "url": "",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "15 丸亀": {
     "tvg_id": "boat.marugame",
-    "live": false
+    "live": false,
+    "start": "",
+    "end": "",
+    "day_type": "",
+    "emoji": "🚤",
+    "url": "",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "16 児島": {
     "tvg_id": "boat.kojima",
-    "live": false,
-    "start": "10:30",
-    "end": "17:00",
+    "live": true,
+    "start": "",
+    "end": "",
     "day_type": "デイ",
     "emoji": "🌞",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/69fe243b63a84c2eac5ed50b7a4363d1/b2e8be6ca83d48c8af29de55af5ec55f/manifest_2.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "17 宮島": {
     "tvg_id": "boat.miyajima",
-    "live": false
+    "live": false,
+    "start": "",
+    "end": "",
+    "day_type": "",
+    "emoji": "🚤",
+    "url": "",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "18 徳山": {
     "tvg_id": "boat.tokuyama",
-    "live": false
+    "live": false,
+    "start": "",
+    "end": "",
+    "day_type": "",
+    "emoji": "🚤",
+    "url": "",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "19 下関": {
     "tvg_id": "boat.shimonoseki",
-    "live": false,
-    "start": "17:26",
-    "end": "22:40",
-    "day_type": "ナイター",
-    "emoji": "🌙",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "live": true,
+    "start": "",
+    "end": "",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/01066e470aee40f990c4cab3f1952cd2/816db02dc92c452fa04623388cbae380/manifest_1.m3u8?end=1786543199&start=1786500000&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY5NTYwMF8yMDg3Mzg3OTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.G61IMuG4l5LFWCXSQHaql5vrpmUIifylayRcfzoaPAw",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "20 若松": {
     "tvg_id": "boat.wakamatsu",
-    "live": false,
-    "start": "15:10",
-    "end": "20:55",
-    "day_type": "ナイター",
-    "emoji": "🌙",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "live": true,
+    "start": "",
+    "end": "",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/23c0abd211b34b338466ad522d9f8968/784214d72ef445f790fc01a2621e83b4/manifest_1.m3u8?end=1786538999&start=1786495800&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY5MTQwMF8yMDg3MzQ1OTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.vPEbCuce71D8N8zHCUV64rJmWGdYot9cRr0I_VRkTtE",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "21 芦屋": {
     "tvg_id": "boat.ashiya",
-    "live": false,
-    "start": "08:17",
-    "end": "14:12",
-    "day_type": "モーニング",
-    "emoji": "🌅",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "live": true,
+    "start": "",
+    "end": "",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/a41f9f3f58fb4de4a7af5047202ee8c4/3998e989299f43e98f5a9de4830405ef/manifest_3.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "22 福岡": {
     "tvg_id": "boat.fukuoka",
-    "live": false,
-    "start": "12:02",
-    "end": "18:05",
+    "live": true,
+    "start": "",
+    "end": "",
     "day_type": "デイ",
     "emoji": "🌞",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/35962cf886034b93b3b01cc8a9319fbf/7105ef570d484c06aa74ce0c441682b7/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "23 唐津": {
     "tvg_id": "boat.karatsu",
-    "live": false,
-    "start": "08:29",
-    "end": "14:40",
-    "day_type": "モーニング",
-    "emoji": "🌅",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "live": true,
+    "start": "",
+    "end": "",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/88418f478760495e9be726611a6c56d6/77d6429e7c7b479ca997dbd742f54365/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   },
   "24 大村": {
     "tvg_id": "boat.omura",
-    "live": false,
-    "start": "15:04",
-    "end": "20:51",
-    "day_type": "ナイター",
-    "emoji": "🌙",
-    "url": "",
-    "source": "GitHub Actions / Playwright V2"
+    "live": true,
+    "start": "",
+    "end": "",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/f33a734650fa48468047a6db7f07ea73/733518c505fa455cbb51969ef182670b/manifest_2.m3u8?end=1786538999&start=1786495800&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY5MTQwMF8yMDg3MzQ1OTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.vPEbCuce71D8N8zHCUV64rJmWGdYot9cRr0I_VRkTtE",
+    "date": "20260812",
+    "source": "Workplace Playwright Edge"
   }
 }
