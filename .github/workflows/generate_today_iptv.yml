@@ -1,0 +1,31 @@
+name: Test Build Today IPTV
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Build IPTV
+        run: python build_today_iptv.py
+
+      - name: Commit IPTV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add IPTV
+          git diff --cached --quiet || git commit -m "Test build today IPTV"
+          git push
