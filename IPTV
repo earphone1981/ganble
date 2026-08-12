@@ -290,6 +290,8 @@ https://cfl.st.keirin.jp/87/dash/87.mpd
 
 #ボートレース
 
+#ボートレース
+
 #EXTINF:-1 tvg-id="boat.kiryu" tvg-name="01 桐生" group-title="ボートレース",01 桐生
 https://variants.streaks.jp/v5/cp-boatrace-prod/5618339463c14ed2a55fb70d56dbb96c/de2613c0fe8441bf804935e1b1c7e2df/manifest_1.m3u8?end=1786538999&start=1786495800&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY5MTQwMF8yMDg3MzQ1OTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.vPEbCuce71D8N8zHCUV64rJmWGdYot9cRr0I_VRkTtE
 
@@ -309,7 +311,7 @@ https://variants.streaks.jp/v5/cp-boatrace-prod/ce870586895b416ea4e680ef9011e368
 https://variants.streaks.jp/v5/cp-boatrace-prod/f30965ee37e64e1c99fd8f5f0c312698/bbdf3cc9f343495582eccf631e2f05cb/manifest_1.m3u8?end=1786538999&start=1786495800&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY5MTQwMF8yMDg3MzQ1OTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.vPEbCuce71D8N8zHCUV64rJmWGdYot9cRr0I_VRkTtE
 
 #EXTINF:-1 tvg-id="boat.tokoname" tvg-name="08 常滑" group-title="ボートレース",08 常滑
-https://manifest.streaks.jp/v6/cp-boatrace-prod/d51aaf514647452a9db9e98fa3500828/8dbeff71ac074d45ac2a623f7c2c3541/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjgwNTEyMDg0YTFiODRjMWRhZDJiZTExZjc5NWI2ZGYxIiwiZWRnZSI6IjUwOWM4Y2ExZDEwMjRlZGViOGMyNTE0ZDFmZWJmYmQzIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc4NjY4MzYwMCwic3RhcnQiOjE3ODY0ODc0MDAsImNwIjoiMjA4NjgzMDAwXzIwODcyNjE5OSIsInBwdyI6IjQwayJ9.g15W0ZFCkYls6TTvQdfUqt95dP3ybiFgz6j7aJ-Hc7g
+https://variants.streaks.jp/v5/cp-boatrace-prod/d51aaf514647452a9db9e98fa3500828/8dbeff71ac074d45ac2a623f7c2c3541/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ
 
 #EXTINF:-1 tvg-id="boat.amagasaki" tvg-name="13 尼崎" group-title="ボートレース",13 尼崎
 https://variants.streaks.jp/v5/cp-boatrace-prod/8c36ad17e9874aa7a7f8ef3aa127105d/efd3beffb4b14bfc8685a7dad8cb655f/manifest_2.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ
