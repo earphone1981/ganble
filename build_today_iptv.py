@@ -34,7 +34,7 @@ JST = datetime.timezone(datetime.timedelta(hours=9))
 TODAY = datetime.datetime.now(JST).strftime("%Y%m%d")
 
 BASE = Path(__file__).resolve().parent
-OLD_M3U = BASE / "IPTVold.m3u"
+OLD_M3U = BASE / "IPTVold"
 OUT_M3U = BASE / "IPTV.m3u"
 
 KEIBA_JSON = BASE / "keiba_schedule.json"
