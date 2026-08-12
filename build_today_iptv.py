@@ -2,23 +2,23 @@
 # -*- coding: utf-8 -*-
 
 """
-当日開催場だけの IPTV.m3u を生成する。
+当日開催場だけの IPTV を生成する。
 
 入力（ganble リポジトリ直下想定）
-  IPTVold.m3u
+  IPTVold
   keiba_schedule.json
   keirin_schedule.json
   autorace_schedule.json
   boatrace_today.json
 
 出力
-  IPTV.m3u
+  IPTV
 
 方針
-  - 地方競馬: 当日開催場だけ、IPTVold.m3u の既存URL/ロゴを利用
+  - 地方競馬: 当日開催場だけ、IPTVold の既存URL/ロゴを利用
   - 競輪: 当日開催場だけ、TIPSTAR(m3u8) のみ利用
-           競輪(公式)のMPD系は IPTVold.m3u に残し、本番日次版には入れない
-  - オート: 当日開催場だけ、IPTVold.m3u の既存URL/ロゴを利用
+           競輪(公式)のMPD系は IPTVold に残し、本番日次版には入れない
+  - オート: 当日開催場だけ、IPTVold の既存URL/ロゴを利用
   - ボート: boatrace_today.json の live=true + urlありだけ利用
            URLは毎日取得した最新版、ロゴはBOAT RACE公式固定URL
   - JRAグリーン等、上記4競技以外の固定チャンネルはそのまま残す
@@ -35,7 +35,7 @@ TODAY = datetime.datetime.now(JST).strftime("%Y%m%d")
 
 BASE = Path(__file__).resolve().parent
 OLD_M3U = BASE / "IPTVold"
-OUT_M3U = BASE / "IPTV.m3u"
+OUT_M3U = BASE / "IPTV"
 
 KEIBA_JSON = BASE / "keiba_schedule.json"
 KEIRIN_JSON = BASE / "keirin_schedule.json"
