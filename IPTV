@@ -1,0 +1,82 @@
+#EXTM3U url-tvg="https://earphone1981.github.io/epg-generator/epg.xml" tvg-shift=0 m3uautoload=1
+
+# ===== オートレース =====
+#EXTINF:-1 tvg-id="auto.isesaki" tvg-name="伊勢崎" tvg-logo="https://isesaki-auto.jp/wp-content/themes/isesakiauto2021/img/header_logo.png" group-title="オートレース",伊勢崎
+https://autorace-live.akamaized.net/hls/live/2036917-b/id3/streaming/media.m3u8
+
+#EXTINF:-1 tvg-id="auto.hamamatsu" tvg-name="浜松" tvg-logo="https://www.hamamatsuauto.jp/assets/images/common/hamamatsu_auto_logo.png" group-title="オートレース",浜松
+https://autorace-live.akamaized.net/hls/live/2036917/id4/streaming/media.m3u8
+
+
+# ===== 競馬 / 中央競馬 =====
+#EXTINF:-1 tvg-id="jra.green" tvg-name="ＪＲＡグリーン" tvg-logo="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG18HDfV9z5WnEy8DjtWcOlHM7ya-LT2y9lzP807icFeQ0cW6Y8MtoHk7llzATicOprtkQIQPlSbwjWu-OlhJWbSbmgkhZ9n4tUWB4iLZA9wfKRuSqMqzACO4FViJGJOSzpXO5rdzgyOgMDCeAKIr_pdYVXTT5_BiRdSWfoWP9ynI0JuzOoeONy9ZtwsE4fQ4TiZ7kw5ud2KuB5bN-g34aZB9bAd8qCitLFcQadXvuYnU0kCw88d-SglswbsLZeLTVIz0-kdKhTK1vGzBC7f8wUA=/JRA.png" group-title="競馬 / 中央競馬",ＪＲＡグリーン
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=5-15
+
+
+# ===== 競輪(TIPSTAR) =====
+#EXTINF:-1 tvg-id="keirin.aomori" tvg-name="青森" tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2024/10/minchari_aomori-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪(TIPSTAR)",青森
+https://d18cvifc0fh5r6.cloudfront.net/out/v1/e86a6fef2a4b4cefb7e767727ec3df4c/index.m3u8
+
+#EXTINF:-1 tvg-id="keirin.yahiko" tvg-name="弥彦" tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2024/10/minchari_yahiko-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪(TIPSTAR)",弥彦
+https://d1bvxvt0rc15dk.cloudfront.net/out/v1/d448b09b86504888b4753bec784f965e/index.m3u8
+
+#EXTINF:-1 tvg-id="keirin.gifu" tvg-name="岐阜" tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/gifu-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪(TIPSTAR)",岐阜
+https://dhwnzvxv6smzu.cloudfront.net/out/v1/8aeb71175e4d4f818d765c6471f10602/index.m3u8
+
+#EXTINF:-1 tvg-id="keirin.toyama" tvg-name="富山" tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/toyama-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪(TIPSTAR)",富山
+https://d1fzg1sb6wtn97.cloudfront.net/out/v1/8c5cd6880a4c464e8d69a265fc2b7c22/index.m3u8
+
+#EXTINF:-1 tvg-id="keirin.matsuyama" tvg-name="松山" tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/matsuyama-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪(TIPSTAR)",松山
+https://d16wnx3wk8cnnt.cloudfront.net/out/v1/ceb0db1dbb934ef5b2836533d61729d0/index.m3u8
+
+#EXTINF:-1 tvg-id="keirin.takeo" tvg-name="武雄" tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/takeo-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪(TIPSTAR)",武雄
+https://d30l40wf0q5flx.cloudfront.net/out/v1/cc007464a1254ff9ac7e0644fdc230b5/index.m3u8
+
+#EXTINF:-1 tvg-id="keirin.kumamoto" tvg-name="熊本" tvg-logo="https://i0.wp.com/minchari.com/wp-content/uploads/2025/06/kumamoto-keirin.png?resize=1024%2C300&ssl=1" group-title="競輪(TIPSTAR)",熊本
+https://d2m69fn251lhrf.cloudfront.net/out/v1/1fb24676fcbf458b964083925878052a/index.m3u8
+
+# ===== ボートレース =====
+#EXTINF:-1 tvg-id="boat.kiryu" tvg-name="01 桐生" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/01_N.jpg" group-title="ボートレース",01 桐生
+https://variants.streaks.jp/v5/cp-boatrace-prod/5618339463c14ed2a55fb70d56dbb96c/de2613c0fe8441bf804935e1b1c7e2df/manifest_1.m3u8?end=1786538999&start=1786495800&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY5MTQwMF8yMDg3MzQ1OTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.vPEbCuce71D8N8zHCUV64rJmWGdYot9cRr0I_VRkTtE
+
+#EXTINF:-1 tvg-id="boat.toda" tvg-name="02 戸田" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/02_N-1.jpg" group-title="ボートレース",02 戸田
+https://variants.streaks.jp/v5/cp-boatrace-prod/c6af394721aa4ceba1db6404867ee523/3b443733b38347ceb25192143c945387/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ
+
+#EXTINF:-1 tvg-id="boat.edogawa" tvg-name="03 江戸川" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/03_N-1.jpg" group-title="ボートレース",03 江戸川
+https://variants.streaks.jp/v5/cp-boatrace-prod/f400efe7d2b3498ca8ce1e29152f1479/dca56391417c432daccb7c2a9b26cbfd/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ
+
+#EXTINF:-1 tvg-id="boat.heiwajima" tvg-name="04 平和島" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/04_N-1.jpg" group-title="ボートレース",04 平和島
+https://variants.streaks.jp/v5/cp-boatrace-prod/b6fb5b834d20412c964e122a226c03e7/af452b25992e4feda52e0071537bdea5/manifest_4.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ
+
+#EXTINF:-1 tvg-id="boat.hamanako" tvg-name="06 浜名湖" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/06_N-1.jpg" group-title="ボートレース",06 浜名湖
+https://variants.streaks.jp/v5/cp-boatrace-prod/ce870586895b416ea4e680ef9011e368/0d14fb9777224237a0b307a9d8f01ee2/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ
+
+#EXTINF:-1 tvg-id="boat.gamagori" tvg-name="07 蒲郡" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/07_N-1.jpg" group-title="ボートレース",07 蒲郡
+https://manifest.streaks.jp/v6/cp-boatrace-prod/f30965ee37e64e1c99fd8f5f0c312698/bbdf3cc9f343495582eccf631e2f05cb/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjgwNTEyMDg0YTFiODRjMWRhZDJiZTExZjc5NWI2ZGYxIiwiZWRnZSI6IjUwOWM4Y2ExZDEwMjRlZGViOGMyNTE0ZDFmZWJmYmQzIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc4NjY5MDgwMCwic3RhcnQiOjE3ODY0OTU4MDAsImNwIjoiMjA4NjkxNDAwXzIwODczNDU5OSIsInBwdyI6IjQwayJ9.yPxPyEcTnm-IwZczNMK0qMHzBB8G0VSndt8OifVPSEk
+
+#EXTINF:-1 tvg-id="boat.tokoname" tvg-name="08 常滑" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/08_N-1.jpg" group-title="ボートレース",08 常滑
+https://variants.streaks.jp/v5/cp-boatrace-prod/d51aaf514647452a9db9e98fa3500828/8dbeff71ac074d45ac2a623f7c2c3541/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ
+
+#EXTINF:-1 tvg-id="boat.amagasaki" tvg-name="13 尼崎" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/13_N-1.jpg" group-title="ボートレース",13 尼崎
+https://manifest.streaks.jp/v6/cp-boatrace-prod/8c36ad17e9874aa7a7f8ef3aa127105d/efd3beffb4b14bfc8685a7dad8cb655f/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjgwNTEyMDg0YTFiODRjMWRhZDJiZTExZjc5NWI2ZGYxIiwiZWRnZSI6IjUwOWM4Y2ExZDEwMjRlZGViOGMyNTE0ZDFmZWJmYmQzIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc4NjY5MDgwMCwic3RhcnQiOjE3ODY0ODc0MDAsImNwIjoiMjA4NjgzMDAwXzIwODcyNjE5OSIsInBwdyI6IjQwayJ9.9n-QOEdKW1UD4ogobKuc1nZOwcGSGHTtJOXAILxG-os
+
+#EXTINF:-1 tvg-id="boat.kojima" tvg-name="16 児島" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/16_N-1.jpg" group-title="ボートレース",16 児島
+https://manifest.streaks.jp/v6/cp-boatrace-prod/69fe243b63a84c2eac5ed50b7a4363d1/b2e8be6ca83d48c8af29de55af5ec55f/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjgwNTEyMDg0YTFiODRjMWRhZDJiZTExZjc5NWI2ZGYxIiwiZWRnZSI6IjUwOWM4Y2ExZDEwMjRlZGViOGMyNTE0ZDFmZWJmYmQzIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc4NjY5MDgwMCwic3RhcnQiOjE3ODY0ODc0MDAsImNwIjoiMjA4NjgzMDAwXzIwODcyNjE5OSIsInBwdyI6IjQwayJ9.9n-QOEdKW1UD4ogobKuc1nZOwcGSGHTtJOXAILxG-os
+
+#EXTINF:-1 tvg-id="boat.shimonoseki" tvg-name="19 下関" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/19_N-1.jpg" group-title="ボートレース",19 下関
+https://variants.streaks.jp/v5/cp-boatrace-prod/01066e470aee40f990c4cab3f1952cd2/816db02dc92c452fa04623388cbae380/manifest_1.m3u8?end=1786543199&start=1786500000&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY5NTYwMF8yMDg3Mzg3OTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.G61IMuG4l5LFWCXSQHaql5vrpmUIifylayRcfzoaPAw
+
+#EXTINF:-1 tvg-id="boat.wakamatsu" tvg-name="20 若松" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/20_N-1.jpg" group-title="ボートレース",20 若松
+https://variants.streaks.jp/v5/cp-boatrace-prod/23c0abd211b34b338466ad522d9f8968/784214d72ef445f790fc01a2621e83b4/manifest_1.m3u8?end=1786538999&start=1786495800&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY5MTQwMF8yMDg3MzQ1OTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.vPEbCuce71D8N8zHCUV64rJmWGdYot9cRr0I_VRkTtE
+
+#EXTINF:-1 tvg-id="boat.ashiya" tvg-name="21 芦屋" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/21_N-1.jpg" group-title="ボートレース",21 芦屋
+https://variants.streaks.jp/v5/cp-boatrace-prod/a41f9f3f58fb4de4a7af5047202ee8c4/3998e989299f43e98f5a9de4830405ef/manifest_3.m3u8?end=1786530540&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxNDAiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.MXreOPbV66sBCt_goerQLTMZSiriKcCuO1Fmz5M6Z20
+
+#EXTINF:-1 tvg-id="boat.fukuoka" tvg-name="22 福岡" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/22_N-1-1.jpg" group-title="ボートレース",22 福岡
+https://variants.streaks.jp/v5/cp-boatrace-prod/35962cf886034b93b3b01cc8a9319fbf/7105ef570d484c06aa74ce0c441682b7/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ
+
+#EXTINF:-1 tvg-id="boat.karatsu" tvg-name="23 唐津" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/23_N-1.jpg" group-title="ボートレース",23 唐津
+https://variants.streaks.jp/v5/cp-boatrace-prod/88418f478760495e9be726611a6c56d6/77d6429e7c7b479ca997dbd742f54365/manifest_1.m3u8?end=1786530540&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxNDAiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.MXreOPbV66sBCt_goerQLTMZSiriKcCuO1Fmz5M6Z20
+
+#EXTINF:-1 tvg-id="boat.omura" tvg-name="24 大村" tvg-logo="https://www.boatrace.jp/static/uploads/sites/8/24_N-1.jpg" group-title="ボートレース",24 大村
+https://variants.streaks.jp/v5/cp-boatrace-prod/f33a734650fa48468047a6db7f07ea73/733518c505fa455cbb51969ef182670b/manifest_2.m3u8?end=1786538999&start=1786495800&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY5MTQwMF8yMDg3MzQ1OTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.vPEbCuce71D8N8zHCUV64rJmWGdYot9cRr0I_VRkTtE
