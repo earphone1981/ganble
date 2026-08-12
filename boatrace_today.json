@@ -83,7 +83,7 @@
     "end": "",
     "day_type": "デイ",
     "emoji": "🌞",
-    "url": "https://manifest.streaks.jp/v6/cp-boatrace-prod/d51aaf514647452a9db9e98fa3500828/8dbeff71ac074d45ac2a623f7c2c3541/hls/v3/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYyI6IjgwNTEyMDg0YTFiODRjMWRhZDJiZTExZjc5NWI2ZGYxIiwiZWRnZSI6IjUwOWM4Y2ExZDEwMjRlZGViOGMyNTE0ZDFmZWJmYmQzIiwiY29kZWNzIjoiYXV0byIsImV4cCI6MTc4NjY4MzYwMCwic3RhcnQiOjE3ODY0ODc0MDAsImNwIjoiMjA4NjgzMDAwXzIwODcyNjE5OSIsInBwdyI6IjQwayJ9.g15W0ZFCkYls6TTvQdfUqt95dP3ybiFgz6j7aJ-Hc7g",
+    "url": "https://variants.streaks.jp/v5/cp-boatrace-prod/d51aaf514647452a9db9e98fa3500828/8dbeff71ac074d45ac2a623f7c2c3541/manifest_1.m3u8?end=1786530599&start=1786487400&vt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcCI6IjIwODY4MzAwMF8yMDg3MjYxOTkiLCJlZGdlIjoiai1saXZlLWNwLWJvYXRyYWNlLXByb2Quc3RyZWFrcy5qcCJ9.cZr8VZV2AYVsIpSD5R79-tXs-fpXO3kLqc7TwEpzUDQ",
     "date": "20260812",
     "source": "Workplace Playwright Edge"
   },
