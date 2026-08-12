@@ -1,0 +1,203 @@
+{
+  "01 桐生": {
+    "tvg_id": "boat.kiryu",
+    "live": false,
+    "start": "15:02",
+    "end": "20:41",
+    "day_type": "ナイター",
+    "emoji": "🌙",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=01kiryu&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "02 戸田": {
+    "tvg_id": "boat.toda",
+    "live": false,
+    "start": "10:32",
+    "end": "16:40",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=02toda&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "03 江戸川": {
+    "tvg_id": "boat.edogawa",
+    "live": false,
+    "start": "10:59",
+    "end": "16:35",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=03edogawa&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "04 平和島": {
+    "tvg_id": "boat.heiwajima",
+    "live": false,
+    "start": "11:40",
+    "end": "17:52",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=04heiwajima&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "05 多摩川": {
+    "tvg_id": "boat.tamagawa",
+    "live": false
+  },
+  "06 浜名湖": {
+    "tvg_id": "boat.hamanako",
+    "live": false,
+    "start": "11:12",
+    "end": "17:14",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=06hamanako&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "07 蒲郡": {
+    "tvg_id": "boat.gamagori",
+    "live": false,
+    "start": "15:03",
+    "end": "20:46",
+    "day_type": "ナイター",
+    "emoji": "🌙",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=07gamagori&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "08 常滑": {
+    "tvg_id": "boat.tokoname",
+    "live": false,
+    "start": "10:18",
+    "end": "16:13",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=08tokoname&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "09 津": {
+    "tvg_id": "boat.tsu",
+    "live": false
+  },
+  "10 三国": {
+    "tvg_id": "boat.mikuni",
+    "live": false
+  },
+  "11 びわこ": {
+    "tvg_id": "boat.biwako",
+    "live": false
+  },
+  "12 住之江": {
+    "tvg_id": "boat.suminoe",
+    "live": false
+  },
+  "13 尼崎": {
+    "tvg_id": "boat.amagasaki",
+    "live": false,
+    "start": "10:20",
+    "end": "16:33",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=13amagasaki&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "14 鳴門": {
+    "tvg_id": "boat.naruto",
+    "live": false
+  },
+  "15 丸亀": {
+    "tvg_id": "boat.marugame",
+    "live": false
+  },
+  "16 児島": {
+    "tvg_id": "boat.kojima",
+    "live": false,
+    "start": "10:30",
+    "end": "17:00",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=16kojima&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "17 宮島": {
+    "tvg_id": "boat.miyajima",
+    "live": false
+  },
+  "18 徳山": {
+    "tvg_id": "boat.tokuyama",
+    "live": false
+  },
+  "19 下関": {
+    "tvg_id": "boat.shimonoseki",
+    "live": false,
+    "start": "17:26",
+    "end": "22:40",
+    "day_type": "ナイター",
+    "emoji": "🌙",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=19shimonoseki&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "20 若松": {
+    "tvg_id": "boat.wakamatsu",
+    "live": false,
+    "start": "15:10",
+    "end": "20:55",
+    "day_type": "ナイター",
+    "emoji": "🌙",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=20wakamatsu&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "21 芦屋": {
+    "tvg_id": "boat.ashiya",
+    "live": false,
+    "start": "08:17",
+    "end": "14:12",
+    "day_type": "モーニング",
+    "emoji": "🌅",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=21ashiya&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "22 福岡": {
+    "tvg_id": "boat.fukuoka",
+    "live": false,
+    "start": "12:02",
+    "end": "18:05",
+    "day_type": "デイ",
+    "emoji": "🌞",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=22fukuoka&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "23 唐津": {
+    "tvg_id": "boat.karatsu",
+    "live": false,
+    "start": "08:29",
+    "end": "14:40",
+    "day_type": "モーニング",
+    "emoji": "🌅",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=23karatsu&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  },
+  "24 大村": {
+    "tvg_id": "boat.omura",
+    "live": false,
+    "start": "15:04",
+    "end": "20:51",
+    "day_type": "ナイター",
+    "emoji": "🌙",
+    "url": "",
+    "player_url": "https://front.player.boatrace-cdn.jp/player/live?service=boatcast&stadium=24omura&sourceType=mix&dvr=1&audioMode=0&autoplay=1&bitrate=low",
+    "source": "GitHub Actions / direct player V3"
+  }
+}
