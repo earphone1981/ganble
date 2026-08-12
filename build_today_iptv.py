@@ -34,8 +34,8 @@ JST = datetime.timezone(datetime.timedelta(hours=9))
 TODAY = datetime.datetime.now(JST).strftime("%Y%m%d")
 
 BASE = Path(__file__).resolve().parent
-OLD_M3U = BASE / "IPTVold"
-OUT_M3U = BASE / "IPTV"
+OLD_M3U = BASE / "IPTVold.m3u"
+OUT_M3U = BASE / "IPTV.m3u"
 
 KEIBA_JSON = BASE / "keiba_schedule.json"
 KEIRIN_JSON = BASE / "keirin_schedule.json"
@@ -69,6 +69,24 @@ BOAT_LOGOS = {
     "boat.fukuoka": "https://www.boatrace.jp/static/uploads/sites/8/22_N-1-1.jpg",
     "boat.karatsu": "https://www.boatrace.jp/static/uploads/sites/8/23_N-1.jpg",
     "boat.omura": "https://www.boatrace.jp/static/uploads/sites/8/24_N-1.jpg",
+}
+
+KEIBA_TVG_ID = {
+    "帯広": "chihou.obihiro",
+    "門別": "chihou.mombetsu",
+    "盛岡": "chihou.morioka",
+    "水沢": "chihou.mizusawa",
+    "浦和": "chihou.urawa",
+    "船橋": "chihou.funabashi",
+    "大井": "chihou.oi",
+    "川崎": "chihou.kawasaki_keiba",
+    "金沢": "chihou.kanazawa",
+    "名古屋": "chihou.nagoya_keiba",
+    "笠松": "chihou.kasamatsu",
+    "園田": "chihou.sonoda",
+    "姫路": "chihou.himeji",
+    "高知": "chihou.kochi_keiba",
+    "佐賀": "chihou.saga",
 }
 
 BOAT_ORDER = {
@@ -105,6 +123,27 @@ def validate_schedule(data: dict, label: str) -> set[str]:
         tvg_id = str(info.get("tvg_id", "")).strip()
         if tvg_id:
             ids.add(tvg_id)
+    return ids
+
+
+def validate_keiba_schedule(data: dict) -> set[str]:
+    """地方競馬JSONは data['local'] が開催場辞書。場名をtvg-idへ変換する。"""
+    date = str(data.get("date", ""))
+    if date and date != TODAY:
+        print(f"WARN: 地方競馬 JSONの日付が今日と違います: {date} != {TODAY}")
+        return set()
+
+    local = data.get("local", {})
+    if not isinstance(local, dict):
+        return set()
+
+    ids = set()
+    for venue in local.keys():
+        tvg_id = KEIBA_TVG_ID.get(str(venue).strip(), "")
+        if tvg_id:
+            ids.add(tvg_id)
+        else:
+            print(f"WARN: 地方競馬 tvg-id未登録: {venue}")
     return ids
 
 
@@ -176,12 +215,12 @@ def build_boat_entries(boat_data: dict):
 
 def main():
     if not OLD_M3U.exists():
-        raise SystemExit("IPTVold.m3u がありません。GitHubに退避した旧版を同じフォルダへ置いてください。")
+        raise SystemExit("IPTVold がありません。GitHubに退避した旧版を同じフォルダへ置いてください。")
 
     old_text = OLD_M3U.read_text(encoding="utf-8-sig")
     entries = parse_entries(old_text)
 
-    keiba_ids = validate_schedule(load_json(KEIBA_JSON), "地方競馬")
+    keiba_ids = validate_keiba_schedule(load_json(KEIBA_JSON))
     keirin_ids = validate_schedule(load_json(KEIRIN_JSON), "競輪")
     auto_ids = validate_schedule(load_json(AUTO_JSON), "オート")
     boat_data = load_json(BOAT_JSON)
